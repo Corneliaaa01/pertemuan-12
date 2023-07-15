@@ -1,0 +1,15 @@
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\bin\Debug\net6.0\TugasArray.exe
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\bin\Debug\net6.0\TugasArray.deps.json
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\bin\Debug\net6.0\TugasArray.runtimeconfig.json
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\bin\Debug\net6.0\TugasArray.dll
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\bin\Debug\net6.0\TugasArray.pdb
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\obj\Debug\net6.0\TugasArray.csproj.AssemblyReference.cache
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\obj\Debug\net6.0\TugasArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\obj\Debug\net6.0\TugasArray.AssemblyInfoInputs.cache
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\obj\Debug\net6.0\TugasArray.AssemblyInfo.cs
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\obj\Debug\net6.0\TugasArray.csproj.CoreCompileInputs.cache
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\obj\Debug\net6.0\TugasArray.dll
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\obj\Debug\net6.0\refint\TugasArray.dll
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\obj\Debug\net6.0\TugasArray.pdb
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\obj\Debug\net6.0\TugasArray.genruntimeconfig.cache
+C:\Pemograman Sem 2\TugasArray\TugasArray\TugasArray\obj\Debug\net6.0\ref\TugasArray.dll
